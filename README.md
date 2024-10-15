@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sukalpo Banerjee</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/82167f232877ba1daf0d50d225a33288ce8e002fbbf1a49efbd02653d10df589/68747470733a2f2f696d6167652e6d79616e696d656c6973742e6e65742f75692f354c597a5442566f533139366776597677337a6a774c753853365178535341683845573347317271543767">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukalpo05&label=Profile%20views&color=0e75b6&style=flat" alt="sukalpo05" /> </p>
 
